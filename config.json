@@ -4,6 +4,6 @@
   },
   "logging": {
     "level": "info",
-    "filename": "app.log"
+    "filename": "logs/app.log"
   }
 }

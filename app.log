@@ -1,6 +1,0 @@
-{"level":"info","ts":"2023-12-03T00:57:45.976+0300","caller":"server/main.go:30","msg":"Server starting...","address":":8080"}
-{"level":"info","ts":"2023-12-03T00:58:10.882+0300","caller":"server/main.go:29","msg":"Server starting...","address":":8080"}
-{"level":"info","ts":"2023-12-03T01:01:09.310+0300","caller":"server/main.go:29","msg":"Server starting...","address":":8080"}
-{"level":"info","ts":"2023-12-03T01:03:50.138+0300","caller":"server/main.go:29","msg":"Server starting...","address":":8080"}
-{"level":"info","ts":"2023-12-03T01:06:43.316+0300","caller":"server/main.go:29","msg":"Server starting...","address":":8080"}
-{"level":"info","ts":"2023-12-03T01:17:58.425+0300","caller":"server/main.go:29","msg":"Server starting...","address":":8080"}
