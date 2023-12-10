@@ -1,4 +1,4 @@
-# Go Initial HTTP Server Project
+# Go Initial HTTP Server
 
 This is a simple Go HTTP server project using the Gin framework for routing, Zap for logging, and Docker for containerization.
 
@@ -58,9 +58,9 @@ make docker-stop
 The project structure is organized as follows:
 
 ```plaintext
-my_project/
+go-initial-http-server/
 ├── cmd/
-│   └── my_server/
+│   └── server/
 │       └── main.go
 ├── internal/
 │   ├── config/
